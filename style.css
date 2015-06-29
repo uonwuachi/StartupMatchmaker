@@ -103,7 +103,7 @@ body {
         padding:5px;          
 }
 
-h1 {
+.sm {
     text-align: left;
     color: white;
     font-style: italic;
@@ -112,7 +112,7 @@ h1 {
     padding: 5px;
 }
 
-
+h1 {}
 
 h2 {
     -webkit-column-span: all; /* Chrome, Safari, Opera */
@@ -127,8 +127,33 @@ header {
     background-color:grey;
 }
 
+.car{
+ padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+    
+}
+.sun{
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
 
+}
+.sys{
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+}
 
+.sys1{
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 300px;
+    border-radius: 25px;
+}
 
 a {
     text-decoration: none;
